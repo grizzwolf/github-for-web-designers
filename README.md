@@ -1,3 +1,3 @@
 # github-for-web-designers
 
-##[View the companion reference site](-copy link from github-)
+##[View the companion reference site](https://grizzwolf.github.io/github-for-web-designers/)
